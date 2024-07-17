@@ -18,6 +18,4 @@ npm run dev
 
 Released in 2020
 
-This project is under the [MIT license](https://github.com/rodrigogama/awwwards-rebuilt-furrow/blob/main/LICENSE).
-
-Made with 🖤 by [Rodrigo Gama](https://github.com/rodrigogama)
+This project is under the [MIT license]
